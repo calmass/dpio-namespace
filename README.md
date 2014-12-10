@@ -1,4 +1,4 @@
 dpio-namespace
 ==============
 
-The namespace information for organizations associated with DigitalPIO
+The object models and classes for namespace information for organizations associated with DigitalPIO.
